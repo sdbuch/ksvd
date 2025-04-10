@@ -1,0 +1,16 @@
+[project]
+name = "ksvd"
+version = "0.1.0"
+description = "Implementation of orthogonal dictionary learning algorithms"
+authors = []
+dependencies = [
+    "jax>=0.5.3",
+    "matplotlib>=3.10.1",
+    "torch>=2.6.0",
+    "torchvision>=0.21.0",
+]
+requires-python = ">=3.11"
+
+[tool.rye]
+managed = true
+dev-dependencies = [] 
