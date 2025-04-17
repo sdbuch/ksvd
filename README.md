@@ -1,0 +1,1 @@
+Prepared with `gemini-2.5-pro-exp-03-25`, and using [nel215's implementation](https://github.com/nel215/ksvd) as a reference.
